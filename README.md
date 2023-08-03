@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **ML projects**
 
-- 👨‍💻 All of my projects are available at [engineerphilips](engineerphilips)
+- 👨‍💻 Most of my projects are available at [engineerphilips](engineerphilips) but majority of them are **private**
 
 - 💬 Ask me about **c#, WPF, SQL**
 
