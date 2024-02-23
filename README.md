@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Phil Bab</h1>
-<h3 align="center">.net, python, redis, sql, mongo, html5, ML, tech enthusiast from Ghana</h3>
+<h3 align="center">.net/c#, python, redis, sql, mongo, html5, ML, tech enthusiast from Ghana</h3>
 <img align="left" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engineerphilips&label=Profile%20views&color=0e75b6&style=flat" alt="engineerphilips" /> </p>
 
 <p align="left"> <a href="https://twitter.com/emper0rphil" target="blank"><img src="https://img.shields.io/twitter/follow/emper0rphil?logo=twitter&style=for-the-badge" alt="emper0rphil" /></a> </p>
 
-- 🔭 I’m currently working on **SMILE (ML), DNN Partograph**
+- 🔭 I’m currently working on **SMILE (ML), DNN Partograph, Kafka**
 
 - 🌱 I’m currently learning **MAUI**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 Most of my projects are available at [engineerphilips](engineerphilips) but majority of them are **private**
 
-- 💬 Ask me about **c#, WPF, SQL**
+- 💬 Ask me about **.NET/c#, ASP.NET core, Xamarin, WPF, SQL, Pandas**
 
 - 📫 How to reach me **engineerphilips@outlook.com**
 
