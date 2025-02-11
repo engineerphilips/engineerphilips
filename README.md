@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/emper0rphil" target="blank"><img src="https://img.shields.io/twitter/follow/emper0rphil?logo=twitter&style=for-the-badge" alt="emper0rphil" /></a> </p>
 
-- 🔭 I’m currently working on **SMILE (ML), DNN Partograph, Kafka**
+- 🔭 I’m currently working on **MAAME-DROMO (DNN-based Realtime detection of anomaly in during childbirth), SMILE (ML), DNN Partograph, Kafka**
 
-- 🌱 I’m currently learning **MAUI**
+- 🌱 I’m currently learning **MAUI**, **ADVANCED DATA ENGINEERING**
 
 - 👯 I’m looking to collaborate on **ML projects**
 
 - 👨‍💻 Most of my projects are available at [engineerphilips](engineerphilips) but majority of them are **private**
 
-- 💬 Ask me about **.NET/c#, ASP.NET core, Xamarin, WPF, SQL, Pandas**
+- 💬 Ask me about **.NET/c#, ASP.NET core, Xamarin, WPF, SQL, Pandas, Python, Oracle**
 
 - 📫 How to reach me **engineerphilips@outlook.com**
 
