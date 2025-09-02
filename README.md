@@ -15,7 +15,7 @@
 
 - 👨‍💻 Most of my projects are available at [engineerphilips](engineerphilips) but majority of them are **private**
 
-- 💬 Ask me about **.NET/c#, ASP.NET core, Xamarin, WPF, SQL, Pandas, Python, Oracle**
+- 💬 Ask me about **.NET/c#, ASP.NET core, MAUI, WPF, SQL, Pandas, Python, Oracle**
 
 - 📫 How to reach me **engineerphilips@outlook.com**
 
